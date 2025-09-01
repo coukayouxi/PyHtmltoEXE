@@ -1,4 +1,4 @@
-# HTML转EXE/Python工具
+  # HTML转EXE/Python工具
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -15,9 +15,6 @@
 - 📱 **窗口配置**：可自定义应用程序窗口标题和大小
 - 🎯 **一键转换**：简单直观的操作流程
 
-## 📸 界面预览
-
-![界面截图](screenshot.png) <!-- 如果有截图可以添加 -->
 
 ## 🚀 快速开始
 
@@ -138,4 +135,3 @@ pyinstaller --onefile --windowed --name "HTML转EXE工具" main.py
 - [pywebview](https://github.com/r0x0r/pywebview) - WebView库
 - [PyInstaller](https://github.com/pyinstaller/pyinstaller) - 打包工具
 - [psutil](https://github.com/giampaolo/psutil) - 系统和进程工具
-```
